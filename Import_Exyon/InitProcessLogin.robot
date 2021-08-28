@@ -37,9 +37,9 @@ Tarefa 1:
 ENTRAR NO SITE
     [Documentation]    LOGANDO SITE
     Open Browser      ${LINK}    ${NAVEGADOR}
-    Input Text        ${INPUT_NAME}     std.sbk
+    Input Text        ${INPUT_NAME}     std
     Wait Until Element Is Enabled    ${INPUT_SENHA}
-    Input Text        ${INPUT_SENHA}    1234asdf
+    Input Text        ${INPUT_SENHA}    @@1234asdf@@
     Wait Until Element Is Visible        ${ELEMENT_KEYBOARD}
     Click Button      ${BUTTON_LOGIN}
 
