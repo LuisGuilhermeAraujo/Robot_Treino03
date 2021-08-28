@@ -1,0 +1,6 @@
+**/venv
+Results/
+*.html
+*.xml
+*.code-workspace
+**/log
