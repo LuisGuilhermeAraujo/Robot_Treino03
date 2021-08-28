@@ -26,7 +26,7 @@ ${PAGE_2}                  xpath://div[1]/a[@id="pagNext"][contains(text(), '2')
 
 *** Tasks ***
 Desafio 3:
-    [Documentation]    TEST
+    [Documentation]    PASSO A PASSO
     SITE
     JURIDICO
     RELATORIO
