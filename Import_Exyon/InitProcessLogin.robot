@@ -46,7 +46,7 @@ ENTRAR NO SITE
 PROCESSAMENTO DO SISTEMA SELECIONAR UNIDIADE
     [Documentation]    PROCESSAMENTO DO SISTEMA
     Wait Until Element Is Visible    ${SELECIONAR_MODO}
-    Click Element                    ${SELECIONAR_MODO}
+    Click Element                    ${SELECIONAR_MODO}<
     Wait Until Element Is Enabled    ${BUTTON_SEL_UNIDADE}
     Click Button                     ${BUTTON_SEL_UNIDADE}
     Select Frame                     ${MENU_FRAME}
