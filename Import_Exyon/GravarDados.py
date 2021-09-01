@@ -2,9 +2,9 @@ from LerDados import function_dados
 import  pymssql
 
 
-server = '192.168.252.10'
-user = 'zuri.dev'
-password = 'P04@sot28+'
+server = '192.168.'
+user = 'dev'
+password = ''
 
 df = function_dados()
 

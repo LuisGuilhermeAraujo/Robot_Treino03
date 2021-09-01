@@ -8,10 +8,10 @@ Library        LerDados.py
 
 
 *** Variables ***
-&{DB_CONNECT}    server='192.168.252.10'
-...              database='sbkoficio'
-...              username='zuri.dev'
-...              password= 'P04@sot28+'
+&{DB_CONNECT}    server='192.168'
+...              database=''
+...              username='dev'
+...              password= ''
 
 
 *** Tasks ***
