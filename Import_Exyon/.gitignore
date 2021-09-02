@@ -3,5 +3,5 @@ Results/
 *.html
 *.xml
 *.code-workspace
-**\Transfer
+**/STD/Transfer/**
 **/log
