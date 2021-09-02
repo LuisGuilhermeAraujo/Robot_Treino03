@@ -3,4 +3,5 @@ Results/
 *.html
 *.xml
 *.code-workspace
+**\Transfer
 **/log
