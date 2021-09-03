@@ -11,6 +11,6 @@ def function_dados():
                         sep = ';', 
                         encoding = 'utf-8', 
                         nrows = 5)
-    return df
+    print (df)
 
 
